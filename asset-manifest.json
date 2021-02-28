@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ThatsBullishTech/static/css/main.03b14eb9.chunk.css",
+    "main.js": "/ThatsBullishTech/static/js/main.fa9eb210.chunk.js",
+    "main.js.map": "/ThatsBullishTech/static/js/main.fa9eb210.chunk.js.map",
+    "runtime-main.js": "/ThatsBullishTech/static/js/runtime-main.ad2f2cf8.js",
+    "runtime-main.js.map": "/ThatsBullishTech/static/js/runtime-main.ad2f2cf8.js.map",
+    "static/js/2.3ce04bf8.chunk.js": "/ThatsBullishTech/static/js/2.3ce04bf8.chunk.js",
+    "static/js/2.3ce04bf8.chunk.js.map": "/ThatsBullishTech/static/js/2.3ce04bf8.chunk.js.map",
+    "index.html": "/ThatsBullishTech/index.html",
+    "static/css/main.03b14eb9.chunk.css.map": "/ThatsBullishTech/static/css/main.03b14eb9.chunk.css.map",
+    "static/js/2.3ce04bf8.chunk.js.LICENSE.txt": "/ThatsBullishTech/static/js/2.3ce04bf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad2f2cf8.js",
+    "static/js/2.3ce04bf8.chunk.js",
+    "static/css/main.03b14eb9.chunk.css",
+    "static/js/main.fa9eb210.chunk.js"
+  ]
+}
